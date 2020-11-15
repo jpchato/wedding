@@ -1,0 +1,77 @@
+img {
+    height: auto; 
+    width: auto; 
+    max-width: 500px; 
+    max-height: 500px;
+}
+
+header {
+    text-align: center;
+    font-size: xx-large;
+    color: #72601b;
+}
+
+nav {
+    text-align: center;
+    margin: 10px 10px 10px 10px;
+}
+
+nav a {
+    margin: 5px 5px 5px 5px;
+    color: #818c3c;
+}
+
+div {
+    margin: auto;
+    width: 90%;
+    padding: 10px;
+    border: 1px #72601b solid;
+}
+
+div img {
+    margin-left: 5%;
+    margin-right: 5% ;
+    
+}
+
+body {
+    background-color: 	#19270d;
+    color: 	#818c3c;
+    font-family: 'Cinzel', serif;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+#jesse_vows {
+    margin-left: 40%;
+}
+
+#jessica_vows {
+    margin-left: 40%;
+}
+
+#ring_promise {
+    text-align: center;
+}
+
+.vow_images {
+    display: inline-block;
+}
+
+footer a {
+    margin: 5px 5px 5px 5px;
+    color: #818c3c;
+}
+
+footer {
+    text-align: center;
+    width:100%;
+}
